@@ -1,0 +1,8 @@
+.loginform { 
+		font-size: 25px; 
+		color:blue; 
+		
+	} 
+#emaillabel,#passwordlabel{
+	color: red
+}
