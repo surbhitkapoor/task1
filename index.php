@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-	<style></style>
-	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
-</head>
-<body>
+	<head>
+		<title></title>
+		<style></style>
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"></link>
+		<script src="/bootstrap/css/bootstrap.js"></script>
+	</head>
+	<body>
 
 
 		<div class="container">
@@ -42,13 +43,14 @@
 		</div>
 
 
-<!--
-    <h1>Login Form</h1>
-    <label id="emaillabel" class="loginform">Email</label>
-    <input type="email" name="email" id="email" class="loginform"><br>
-    <label id="passwordlabel" class="loginform">Password</label>
-    <input type="password" name="password" id="password" class="loginform"><br>
-    <input type="submit" value="Login" id="button" class="loginform" >  
---> 
-</body>
+		<!--
+    	<h1>Login Form</h1>
+    	<label id="emaillabel" class="loginform">Email</label>
+    	<input type="email" name="email" id="email" class="loginform"><br>
+    	<label id="passwordlabel" class="loginform">Password</label>
+    	<input type="password" name="password" id="password" class="loginform"><br>
+    	<input type="submit" value="Login" id="button" class="loginform" >  
+		--> 
+
+	</body>
 </html>
